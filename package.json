@@ -22,6 +22,9 @@
   ],
   "scripts": {},
   "private": false,
+  "repository": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML.git",
+  "homepage": "https://TiagoDanin.github.io/Rock-Paper-Scissors-ML",
+  "bugs": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML/issues",
   "github": {
     "name": "Rock-Paper-Scissors-ML",
     "owner": "TiagoDanin"
@@ -33,5 +36,7 @@
     "package.json"
   ],
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "brainjs": "^0.7.4"
+  }
 }
