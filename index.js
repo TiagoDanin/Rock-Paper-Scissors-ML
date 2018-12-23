@@ -1,4 +1,4 @@
-const brain = require('brain.js')
+const brain = require('brainjs')
 
 const net = new brain.NeuralNetwork({
 	activation: 'sigmoid'

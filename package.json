@@ -1,7 +1,7 @@
 {
   "name": "rock-paper-scissors-ml",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rock Paper Scissors Machine Learning",
   "author": {
     "name": "Tiago Danin",
@@ -37,6 +37,6 @@
   ],
   "devDependencies": {},
   "dependencies": {
-    "brainjs": "^0.7.4"
+    "brainjs": "0.7.4"
   }
 }
