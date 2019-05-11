@@ -1,42 +1,42 @@
 {
-  "name": "rock-paper-scissors-ml",
-  "main": "index.js",
-  "version": "1.1.0",
-  "description": "Rock Paper Scissors Machine Learning",
-  "author": {
-    "name": "Tiago Danin",
-    "email": "TiagoDanin@outlook.com",
-    "url": "https://TiagoDanin.github.io"
-  },
-  "license": "MIT",
-  "keywords": [
-    "machine",
-    "learning",
-    "machine-learning",
-    "ia",
-    "brainjs",
-    "rock",
-    "paper",
-    "scissors",
-    "rock-paper-scissors"
-  ],
-  "scripts": {},
-  "private": false,
-  "repository": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML.git",
-  "homepage": "https://TiagoDanin.github.io/Rock-Paper-Scissors-ML",
-  "bugs": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML/issues",
-  "github": {
-    "name": "Rock-Paper-Scissors-ML",
-    "owner": "TiagoDanin"
-  },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "index.js",
-    "package.json"
-  ],
-  "devDependencies": {},
-  "dependencies": {
-    "brainjs": "0.7.4"
-  }
+	"name": "rock-paper-scissors-ml",
+	"main": "index.js",
+	"version": "1.1.0",
+	"description": "Rock Paper Scissors Machine Learning",
+	"author": {
+		"name": "Tiago Danin",
+		"email": "TiagoDanin@outlook.com",
+		"url": "https://TiagoDanin.github.io"
+	},
+	"license": "MIT",
+	"keywords": [
+		"machine",
+		"learning",
+		"machine-learning",
+		"ia",
+		"brainjs",
+		"rock",
+		"paper",
+		"scissors",
+		"rock-paper-scissors"
+	],
+	"scripts": {},
+	"private": false,
+	"repository": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML.git",
+	"homepage": "https://TiagoDanin.github.io/Rock-Paper-Scissors-ML",
+	"bugs": "https://github.com/TiagoDanin/Rock-Paper-Scissors-ML/issues",
+	"github": {
+		"name": "Rock-Paper-Scissors-ML",
+		"owner": "TiagoDanin"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"index.js",
+		"package.json"
+	],
+	"devDependencies": {},
+	"dependencies": {
+		"brainjs": "0.7.4"
+	}
 }
